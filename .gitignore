@@ -1,0 +1,4 @@
+node_modules/
+.venv/
+
+dataset_and_similarity.pkl
