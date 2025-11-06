@@ -148,11 +148,12 @@ You’ll receive a list of 5 similar movies with their homepage links 🎮️
 
 | Movie                   | Homepage                                                                                                       |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Guardians of the Galaxy | [https://www.marvel.com/movies/guardians-of-the-galaxy](https://www.marvel.com/movies/guardians-of-the-galaxy) |
-| The Fifth Element       | [https://www.sonypictures.com/movies/thefifthelement](https://www.sonypictures.com/movies/thefifthelement)     |
-| Star Trek               | [https://www.startrek.com/](https://www.startrek.com/)                                                         |
-| John Carter             | [https://movies.disney.com/john-carter](https://movies.disney.com/john-carter)                                 |
-| Interstellar            | [https://www.interstellarmovie.net/](https://www.interstellarmovie.net/)                                       |
+|  Avatar  | [Link](https://www.imdb.com/title/tt0499549/)  |
+| Aliens vs Predator: Requiem | [Link](http://www.avp-r.com/) |
+| Independence Day       | [Link](https://www.imdb.com/title/tt0116629)     |
+| Titan A.E.               | [Link](https://www.imdb.com/title/tt0120913/)                                                         |
+| Falcon Rising             | [Link](https://www.imdb.com/title/tt2295722/)                                 |
+| Battle: Los Angeles            | [Link](https://www.imdb.com/title/tt1217613/)                                       |
 
 ---
 
