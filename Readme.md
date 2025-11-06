@@ -1,5 +1,5 @@
 <h1 align="center">
-  🎮✨ Movie Recommendation System ✨🎮
+  <a href="https://github.com/Girijaray07/Movie-Recommendation-System-using-Python">✨ Movie Recommendation System ✨</a>
 </h1>
 
 <p align="center">
