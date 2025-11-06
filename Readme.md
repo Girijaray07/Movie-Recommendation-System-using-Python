@@ -159,8 +159,11 @@ You’ll receive a list of 5 similar movies with their homepage links 🎮️
 ## 💡 Future Enhancements
 
 🔹 Integrate a movie poster & trailer preview. 
+
 🔹 Add collaborative filtering for user-personalized recommendations. 
+
 🔹 Deploy on Render / Vercel for live demo access. 
+
 🔹 Improve UI with React + Tailwind + Framer Motion. 
 
 ---
