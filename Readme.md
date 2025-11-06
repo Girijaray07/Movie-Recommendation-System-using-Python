@@ -171,7 +171,9 @@ You’ll receive a list of 5 similar movies with their homepage links 🎮️
 ## 🧑‍💻 Author
 
 👤 **Girija Shankar Ray**
+
 🎥 Web Developer & ML Enthusiast
+
 🌐 [LinkedIn]( https://www.linkedin.com/in/girija-shankar-ray/) | [GitHub](https://github.com)
 
 ---
